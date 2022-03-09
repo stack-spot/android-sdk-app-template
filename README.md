@@ -1,1 +1,1 @@
-# android-sdk-app-template
+# studiozupmobile-android-sdk-app-template
